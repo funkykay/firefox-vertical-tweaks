@@ -23,8 +23,8 @@
 */
 #urlbar[breakout],
 #urlbar[breakout][breakout-extend] {
-  --urlbar-height: 28px !important;
-  --urlbar-toolbar-height: 30px !important;
+  --urlbar-height: 24px !important;
+  --urlbar-toolbar-height: 32px !important;
 
   width: 100% !important;
   top: calc((var(--urlbar-toolbar-height) - var(--urlbar-height)) / 2) !important;
