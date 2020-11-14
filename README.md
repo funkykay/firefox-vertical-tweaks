@@ -1,7 +1,7 @@
 # firefox-vertical-tweaks
-Firefox-UI Tweaks extending the 'Tree Style Tab'-Addon for optimized vertical page size
+**Firefox UI tweaks extending the 'Tree Style Tab'-Addon for optimizing vertical page size**
 
-tested on macos (catalina/big sur)
+tested with macos (catalina/big sur)
 
 ## Screenshot
 ![Screenshot](/screenshot_2020-08-12_131154.png?raw=true "")
