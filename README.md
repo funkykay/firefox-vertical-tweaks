@@ -7,11 +7,16 @@ tested with macos (catalina/big sur)
 ![Screenshot](/screenshot_2020-08-12_131154.png?raw=true "")
 
 ## Setup
-- create chrome folder in your Firefox user directory
-- go into created folder and paste userChrome.css file from this repostory
-- navigate firefox to about:config, accept warning, and change toolkit.legacyUserProfileCustomizations.stylesheets flag to true
-    - **important** otherwise firefox will not load your custom css
-- *optional* condensed topbar: click on hamburger > Customize > Density (Bottom Bar) > Compact
+- Open the your current Firefox Profile folder
+    - Firefox Menu > Help > Troubleshooting Information > Profile Folder
+- create a folder `chrome`
+- go into created folder and paste `userChrome.css` file from this repostory
+    - in console: `wget https://raw.githubusercontent.com/funkykay/firefox-vertical-tweaks/master/userChrome.css`
+- activate custom stylesheets in Firefox:
+    1. navigate firefox to `about:config`
+    2. accept warning
+    3. change toolkit.legacyUserProfileCustomizations.stylesheets flag to true
+- *optional* condensed topbar: Firefox Menu > Customize Toolbar > Density (at the bottom bar) > Compact
 
 *for detailed guide see: https://www.userchrome.org/how-create-userchrome-css.html*
 
