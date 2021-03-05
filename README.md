@@ -4,7 +4,7 @@
 tested with macos (catalina/big sur)
 
 ## Screenshot
-![Screenshot](/screenshot_2020-08-12_131154.png?raw=true "")
+![Screenshot](/Screenshot_2021-03-05.png?raw=true "")
 
 ## Setup
 - Open the your current Firefox Profile folder
