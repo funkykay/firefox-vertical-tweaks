@@ -11,7 +11,7 @@
 
 /*
 *   NOTE: If you hide the sidebar header it can get tricky to switch between diffrent addons sidebars.
-*
+*//*
 #sidebar-header {
     visibility: collapse !important;
 } 
